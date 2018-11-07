@@ -5,7 +5,7 @@ import java.lang.reflect.Modifier;
 import java.util.*;
 
 /**
- * @author luoming
+ * @author andy
  * @version V1.0
  * @description 对象操作工具类
  * @creater 2018/6/14 下午8:31

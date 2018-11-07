@@ -6,7 +6,7 @@ import io.swagger.annotations.ApiModelProperty;
 import java.util.Date;
 
 /**
- * @author luoming
+ * @author andy
  * @version V1.0
  * @description
  * @creater 2018/6/14 下午5:39

@@ -5,7 +5,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
 
 /**
- * @author luoming
+ * @author andy
  * @version V1.0
  * @description
  * @creater 2018/7/2 上午10:06

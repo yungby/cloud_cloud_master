@@ -11,7 +11,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
 /**
- * @author luoming
+ * @author andy
  * @version V1.0
  * @description
  * @creater 2018/6/27 下午3:58

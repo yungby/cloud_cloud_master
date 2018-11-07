@@ -7,7 +7,7 @@ import com.andy.cloud.sys.organization.domain.event.ISysOrgPersonEvent;
 import org.springframework.beans.factory.annotation.Autowired;
 
 /**
- * @author luoming
+ * @author andy
  * @version V1.0
  * @description
  * @creater 2018/6/19 下午2:31

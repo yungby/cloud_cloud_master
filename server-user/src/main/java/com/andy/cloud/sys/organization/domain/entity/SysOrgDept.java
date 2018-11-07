@@ -5,10 +5,10 @@ import javax.persistence.Entity;
 import javax.persistence.Table;
 
 /**
- * @author luoming
+ * @author andy
  * @version V1.0
  * @description
- * @creater 2018/6/7 下午4:04
+ * @creater 2018/11/6 下午4:04
  * @modified
  */
 @Entity

@@ -4,10 +4,10 @@ import javax.persistence.Column;
 import javax.persistence.MappedSuperclass;
 
 /**
- * @author luoming
+ * @author andy
  * @version V1.0
  * @description 实体名称，不能为空。
- * @creater 2018/6/7 下午2:38
+ * @creater 2018/11/6 下午2:38
  * @modified
  */
 @MappedSuperclass

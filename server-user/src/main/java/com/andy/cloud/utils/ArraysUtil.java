@@ -4,7 +4,7 @@ import java.util.Collection;
 import java.util.Map;
 
 /**
- * @author luoming
+ * @author andy
  * @version V1.0
  * @description 数组（集合）工具类
  * @creater 2018/6/14 下午9:00

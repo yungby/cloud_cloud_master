@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 import java.lang.annotation.*;
 
 /**
- * @author luoming
+ * @author andy
  * @version V1.0
  * @description
  * @creater 2018/6/19 下午4:03

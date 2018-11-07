@@ -17,7 +17,7 @@ import java.util.Map;
 import java.util.Properties;
 
 /**
- * @author luoming
+ * @author andy
  * @version V1.0
  * @description
  * @creater 2018/6/26 上午10:40

@@ -25,7 +25,7 @@ spring:
           label: master
 #        svn:
 #          uri: svn://localhost/demo/spring_cloud/parent/trunk/properties/
-#          username: luoming
+#          username: andy
 #          password: L_ming_svn
 #          search-paths: '{application}'
 #          default-label: trunk

@@ -8,7 +8,7 @@ import java.io.Serializable;
 import java.util.UUID;
 
 /**
- * @author luoming
+ * @author andy
  * @version V1.0
  * @description 主键生成算法，将UUID中的时间常量提前至id的头部，使id变为有序的序列
  * @creater 2018/5/20 上午11:04

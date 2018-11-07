@@ -1,7 +1,7 @@
 package com.andy.cloud.utils;
 
 /**
- * @author luoming
+ * @author andy
  * @description
  * @reater By: 2017/9/17 下午10:30
  * @version V1.0

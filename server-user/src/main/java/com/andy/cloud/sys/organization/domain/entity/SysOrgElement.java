@@ -7,10 +7,10 @@ import com.andy.cloud.common.domain.entity.BaseNameEntity;
 import javax.persistence.*;
 
 /**
- * @author luoming
+ * @author andy
  * @version V1.0
  * @description
- * @creater 2018/6/7 下午2:34
+ * @creater 2018/11/6 下午2:34
  * @modified
  */
 @Entity

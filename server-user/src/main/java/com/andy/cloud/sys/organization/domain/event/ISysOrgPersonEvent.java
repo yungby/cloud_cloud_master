@@ -4,7 +4,7 @@ package com.andy.cloud.sys.organization.domain.event;
 import com.andy.cloud.sys.organization.domain.entity.SysOrgPerson;
 
 /**
- * @author luoming
+ * @author andy
  * @version V1.0
  * @description
  * @creater 2018/6/19 下午2:30

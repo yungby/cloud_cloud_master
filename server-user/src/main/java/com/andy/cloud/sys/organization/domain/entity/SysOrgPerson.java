@@ -4,10 +4,10 @@ import javax.persistence.*;
 import java.util.Date;
 
 /**
- * @author luoming
+ * @author andy
  * @version V1.0
  * @description 组织架构人员对象用于保存人员数据
- * @creater 2018/6/7 下午3:25
+ * @creater 2018/11/6 下午3:25
  * @modified
  */
 @Entity
